@@ -129,8 +129,3 @@ final_comparison_results.csv
 
 summarizes the performance obtained using the evaluated threshold selection strategies.
 
-
-
-
-Please refer to the repository license for terms of use.
-
