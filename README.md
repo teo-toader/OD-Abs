@@ -9,19 +9,17 @@ The provided notebooks cover the 5-fold cross-validation training of the selecte
 ## Repository Contents
 
 ```text
-notebooks/
+OD-Abs/
 │
-├── OD_Abs_Beta_VAE_training_5_fold_CV.ipynb
-├── OD_Abs_Evaluation_comparison_of_different_threshold_methods.ipynb
+├── README.md
 │
-└── README.md
+└── notebooks/
+    ├── OD_Abs_Beta_VAE_training_5_fold_CV.ipynb
+    └── OD_Abs_Evaluation_comparison_of_different_threshold_methods.ipynb
 ```
 
 The trained models and cross-validation results are made available separately through Google Drive:
-
-```text
-https://drive.google.com/drive/folders/1WqP3kNQAAfwbCnAis4PzELjk4qF69bIq?usp=sharing
-```
+[Google Drive results folder](https://drive.google.com/drive/folders/1WqP3kNQAAfwbCnAis4PzELjk4qF69bIq?usp=sharing)
 
 The results folder contains the outputs for each fold:
 
